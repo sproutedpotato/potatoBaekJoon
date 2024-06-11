@@ -1,22 +1,22 @@
 #include <stdio.h>
 
-int main(void) {  
-   int a, b;
+int main(void) { 
+   int a, result = 0;
    scanf("%d", &a);
 
-   int result = 0;
    for(int i = 0; i < a; i++){
-      scanf("%d", &b);
+      int plug;
+      scanf("%d", &plug);
 
-      if(i == 0){
-         result += b;
+      if(i == a - 1){
+         result += plug;
       }
       else{
-         result = result + b - 1;
+         result += plug - 1;
       }
    }
 
-   printf("%d", result);
+   printf("%d",result);
 
    return 0;
 }
