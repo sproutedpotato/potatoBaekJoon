@@ -1,10 +1,10 @@
 # [level 1] 문자열 다루기 기본 - 12918 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12918) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12918?language=csharp) 
 
 ### 성능 요약
 
-메모리: 9.19 MB, 시간: 0.00 ms
+메모리: 31.1 MB, 시간: 0.38 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 04월 18일 22:21:30
+2026년 04월 18일 22:23:10
 
 ### 문제 설명
 
